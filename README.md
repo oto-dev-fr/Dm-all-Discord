@@ -5,7 +5,7 @@
 Welcome to my first programming project! This is a simple Discord bot that sends a direct message to all members of a specified server. It’s built using Python and the `discord.py` library.
 
 ## Contact
-- My discord account:
+- My discord account: oto.dev
 - My discord server: [Click here](https://discord.gg/NUuXqpGxqa).
 
 ## Features
