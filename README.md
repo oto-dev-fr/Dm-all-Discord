@@ -20,7 +20,7 @@ Welcome to my first programming project! This is a simple Discord bot that sends
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+  git clone https://github.com/oto-dev-fr/Dm-all-Discord.git
 
 
 ## Contact
